@@ -10,7 +10,9 @@ tags:
   - aging
   - death
 ---
-# Why do we age?
+![STROH](/img/001.jpg "STROH")
+
+# Why do we age
 
 This is the question that us humans have asked since time began. Why do we age? How can we not age? Now it is time to answer those quesions.
 
@@ -18,6 +20,6 @@ This is the question that us humans have asked since time began. Why do we age? 
 
 Cells die, new ones are made. Each new cell is worse than the last, until death.
 
-## How 
+## How
 
 See why
